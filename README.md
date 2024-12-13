@@ -7,3 +7,5 @@ This personal website portfolio includes the following:
 
 The next Page [SDG-13]
     It features the information and all importance of the chosen Sustainable Development Goal which is the Climate Action
+
+This is the Link for easy access:  https://benson416-zxcy.github.io/Personal-Website/
