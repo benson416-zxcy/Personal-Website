@@ -21,6 +21,11 @@ nav {
 body{
     padding: 0;
 }
+
+section{
+    padding-top:20px;
+}
+
 nav .logo{
     left: 0px;
 }
