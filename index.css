@@ -959,9 +959,6 @@ footer .text-span a:hover{
     .sdg{
         margin-top: -100px;
     }
-        ul.navbar a.sdg{
-                display: none;     
-        }
         .home-content .social-icons a{
                 display:none;
         }
