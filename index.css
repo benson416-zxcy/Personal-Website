@@ -813,6 +813,7 @@ footer .text-span a:hover{
         width: 2.5rem;
         height: 2.5rem;
         font-size: 1.5rem;
+        display: none;
     }
     .main-container .image{
         z-index: -1;
