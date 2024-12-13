@@ -775,7 +775,7 @@ footer .text-span a:hover{
         margin: 20px 0;
         width: calc(100%/2 - 20px);
     }
-
+        
 }
 
 @media(max-width: 900px){
@@ -959,6 +959,12 @@ footer .text-span a:hover{
     .sdg{
         margin-top: -100px;
     }
+        ul.navbar a.sdg{
+                display: none;     
+        }
+        .home-content .social-icons a{
+                display:none;
+        }
 }
 
 
